@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>**Hi there, I’m Jasmine!** 👋 I absolutely love diving into data to uncover insights and trends. With over 3 years of experience as a Data Analyst, I thrive on making complex data stories as simple as ABC for everyone to grasp.
+**Hi there, I’m Jasmine!** 👋 I absolutely love diving into data to uncover insights and trends. With over 3 years of experience as a Data Analyst, I thrive on making complex data stories as simple as ABC for everyone to grasp.
 <br><br> 💡 **What I Do**<br><br>
 I specialize in analyzing data across multiple sectors, with experience in:
 - Asset Management and Maintenance Analysis
@@ -17,7 +17,7 @@ My strongest skills lie in:
 - Crafting **business intelligence** solutions to empower decision-makers.
 - Automating workflows to save time and enhance productivity.
 
-<br><br> **🌱 Fun Fact:**<br><br>
+<br><br> 🌱 **Fun Fact:**<br><br>
 When I’m not deep in data, I’m exploring the art of dessert-making and experimenting with new flavors. 🍨 I especially love crafting unique sorbets that surprise the taste buds! Life, to me, is a delightful blend of numbers, insights, and the sweetness of a perfectly crafted dessert. 😉
 
 
