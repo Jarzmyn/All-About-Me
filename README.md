@@ -8,7 +8,7 @@ I specialize in analyzing data across multiple sectors, with experience in:
 - Financial Analysis
 - Business Intelligence
 - Healthcare Analytics
-  
+
 I believe in leveraging data to its fullest potential to make a real-world impact. Currently, I am deeply interested in healthcare data and aspire to conduct groundbreaking research on terminal illnesses.
 <br><br> 💪 **My Superpowers**<br><br>
 My strongest skills lie in:
